@@ -1,7 +1,9 @@
 # OpenClassrooms React course 
-#Training site named "la-maison-jungle"
+# Training site named "la-maison-jungle"
+
 ----
-# Getting Started with Create React App
+
+## Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
