@@ -1,5 +1,5 @@
 
-import './App.css';
+import '../styles/App.css';
 import Banner from './Banner'
 import Cart from './Cart'
 import ShoppingList from './ShoppingList';
