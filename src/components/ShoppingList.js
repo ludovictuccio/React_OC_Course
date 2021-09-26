@@ -16,12 +16,12 @@ function ShoppingList() {
 				))}
 			</ul>
 			<ul className='lmj-plant-list'>
-				{plantList.map(({ id, cover, name, isSpecialOffer, water, light }) => (
+				{plantList.filter(plant => plant.isAvailable !== false).map(({ id, cover, name, isSpecialOffer, water, light }) => (
 					<PlantItem
 						id={id} className='lmj-plant-item'
 						cover={cover} 
 						name={name}
-						isSpecialOffer = {isSpecialOffer}
+						isSpecialOffer={isSpecialOffer}
 						water={water}
 						light={light}
 					/>
