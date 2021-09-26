@@ -2,7 +2,7 @@ import monstera from '../assets/monstera.jpg'
 
 export const plantList = [
 	{
-		name: 'monstera',
+		name: 'Monstera',
 		category: 'classique',
 		id: '1ed',
 		light: 2,
@@ -10,7 +10,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'ficus lyrata',
+		name: 'Ficus lyrata',
 		category: 'classique',
 		id: '2ab',
 		isSpecialOffer: true,
@@ -19,7 +19,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'pothos argenté',
+		name: 'Pothos argenté',
 		category: 'classique',
 		id: '3sd',
 		isSpecialOffer: true,
@@ -28,7 +28,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'yucca',
+		name: 'Yucca',
 		category: 'classique',
 		id: '4kk',
 		light: 3,
@@ -36,7 +36,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'olivier',
+		name: 'Olivier',
 		category: 'extérieur',
 		id: '5pl',
 		isAvailable: false,
@@ -45,7 +45,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'géranium',
+		name: 'Géranium',
 		category: 'extérieur',
 		id: '6uo',
 		light: 2,
@@ -53,7 +53,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'basilique',
+		name: 'Basilic',
 		category: 'extérieur',
 		id: '7ie',
 		light: 2,
@@ -61,7 +61,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'aloe',
+		name: 'Aloe vera',
 		category: 'plante grasse',
 		id: '8fp',
 		light: 2,
@@ -69,7 +69,7 @@ export const plantList = [
 		cover: monstera
 	},
 	{
-		name: 'succulente',
+		name: 'Succulente',
 		category: 'plante grasse',
 		id: '9vn',
 		light: 2,
