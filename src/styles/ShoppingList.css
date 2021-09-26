@@ -5,8 +5,6 @@
 	flex-wrap: wrap;
 	max-width: 800px;
 }
-
-
 .lmj-sales {
 	position: absolute;
 	right: 0px;
@@ -16,3 +14,11 @@
 	padding: 5px 10px;
 	background-color: #31b572;
 }
+
+.lmj-no-sales {
+	position: absolute;
+}
+
+.lmj-text {
+	position: relative;
+ }

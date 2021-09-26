@@ -13,6 +13,7 @@ export const plantList = [
 		name: 'ficus lyrata',
 		category: 'classique',
 		id: '2ab',
+		isSpecialOffer: true,
 		light: 3,
 		water: 1,
 		cover: monstera
@@ -55,7 +56,6 @@ export const plantList = [
 		name: 'basilique',
 		category: 'extérieur',
 		id: '7ie',
-		isSpecialOffer: true,
 		light: 2,
 		water: 3,
 		cover: monstera
@@ -64,7 +64,6 @@ export const plantList = [
 		name: 'aloe',
 		category: 'plante grasse',
 		id: '8fp',
-		isSpecialOffer: true,
 		light: 2,
 		water: 1,
 		cover: monstera
