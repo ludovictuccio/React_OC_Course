@@ -10,8 +10,12 @@ function Cart({ cart, updateCart }) {
 	)
 
     useEffect(() => {
-        alert(`J'aurai ${total}€ à payer 💸`)
-    })
+        document.title = `LMJ: ${total}€ d'achats`
+    }, [total])
+
+    useEffect(() => {
+        alert('Bienvenue dans La maison jungle')
+    }, [])
 
 	return isOpen ? (
 		<div className='lmj-cart'>
