@@ -1,5 +1,6 @@
 # OpenClassrooms React course 
-# Training site named "la-maison-jungle"
+
+# GO TO DEV BRANCH TO ACCESS TO IMPLEMENTED CODE
 
 ----
 
