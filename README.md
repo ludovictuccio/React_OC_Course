@@ -1,6 +1,8 @@
 # OpenClassrooms React course 
 
-# GO TO DEV BRANCH TO ACCESS TO IMPLEMENTED CODE
+----
+
+# ==> GO TO DEV BRANCH TO ACCESS TO IMPLEMENTED CODE
 
 ----
 
